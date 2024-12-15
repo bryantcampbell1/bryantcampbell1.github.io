@@ -7,7 +7,7 @@ Software Engineer
 
 <div id="webaddress">
 <a href="bryantcampbell1012@gmail.com">bryantcampbell1012@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.linkedin.com/in/bryant-campbell-934833231/">My Linkedin page</a>
 </div>
 
 
@@ -17,9 +17,9 @@ Student studying software engineering at Brigham Young University-Idaho
 
 ### Specialized in
 
+Machine Learning
 
-
-### Research interests
+<!-- ### Research interests -->
 
 
 
@@ -64,11 +64,16 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Occupation
 
 `2022-2023`
-__Brigham Young University-Idaho__, Rexburg
+__Brigham Young University-Idaho__, Idaho
 
 - Teacher Assistant
 - Graded assignments and taught classes
 
+`2022-2023`
+__Almaden Golf and Country Club__, California
+
+- Outside Staff
+- Customer-focused service through cart maintenance, golf club management, and groundskeeping
 
 ### Footer
 
