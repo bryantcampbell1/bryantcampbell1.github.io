@@ -2,7 +2,6 @@
 layout: cv
 title: Bryant Campbell
 ---
-# Bryant Campbell
 Software Engineer
 
 <div id="webaddress">
@@ -17,7 +16,7 @@ Student studying software engineering at Brigham Young University-Idaho
 
 ### Specialized in
 
-Machine Learning
+Python, SQL, C#, Data Analyst, Machine Learning
 
 <!-- ### Research interests -->
 
@@ -27,10 +26,12 @@ Machine Learning
 
 `2016-2020`
 __Leigh High School__
+- Chief Editor of 2019-2020 Yearbook
+- Varsity Golf 
 
-`2020-2024`
+`2020-2025`
 __Brigham Young University-Idaho__
-
+- Bachelor of Science in Software Engineering
 
 <!-- ## Awards
 
@@ -64,17 +65,17 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Occupation
 
 `2022-2023`
-__Brigham Young University-Idaho__, Idaho
+__Brigham Young University-Idaho, Idaho__
 
 - Teacher Assistant
 - Graded assignments and taught classes
 
 `2022-2023`
-__Almaden Golf and Country Club__, California
+__Almaden Golf and Country Club , California__
 
 - Outside Staff
-- Customer-focused service through cart maintenance, golf club management, and groundskeeping
+- Customer-focused service through cart maintenance, golf club management, and grounds keeping
 
 ### Footer
 
-Last updated: Demcember 2024 
+Last updated: July 2025
